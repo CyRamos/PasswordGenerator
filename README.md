@@ -15,4 +15,6 @@ You can install it with the command -
 
 Please be aware to change the dictionary location in code **"PasswordGenerator.py" in line - 26**
 
+and the **server ip address in line - 108**
+
 Also notice to change the location it will create the log in code **"Server.py" in line 8** 
